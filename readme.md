@@ -1,4 +1,4 @@
-💫 AI at the Frontlines: Practical Applications in Healthcare 💫
+#💫 AI at the Frontlines: Practical Applications in Healthcare 💫
 
 Welcome to this hands-on session — we're taking AI into real-world healthcare delivery 🚀.  
 Instead of just theory, we'll build a prototype conversational bot leveraging UlizaLlama, supporting English & Swahili (and potentially other languages). This bot can be used as a backend for WhatsApp messaging.
